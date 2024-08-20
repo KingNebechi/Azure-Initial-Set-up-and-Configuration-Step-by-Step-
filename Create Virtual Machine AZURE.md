@@ -2,7 +2,14 @@
 ---
 1. **Create a Virtual Machine:**
    - In the Azure Portal, search for "Virtual machines" and select it.
+  
+![image](https://github.com/user-attachments/assets/4d021b26-7670-43ab-b0ed-3bc370658573)
+
    - Click on "Create" and then choose "Azure Virtual Machine."
+
+![image](https://github.com/user-attachments/assets/ec38ef83-bd5b-4d75-9295-cfa62a632ff3)
+
+
    - Fill in the required details:
      - **Subscription:** Select the subscription you created.
      - **Resource Group:** Select the resource group you created.
@@ -15,3 +22,6 @@
      - **Password:** Set up a password (if using password authentication).
    - Configure any additional settings if necessary (networking, management, etc.).
    - Click "Review + create," then "Create."
+
+   - ![image](https://github.com/user-attachments/assets/984aa724-18d1-4150-8a79-79d79d7d8f1c)
+
