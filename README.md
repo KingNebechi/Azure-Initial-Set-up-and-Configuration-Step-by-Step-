@@ -82,5 +82,26 @@ A subscription is required to manage and deploy Azure resources. Here's how to c
 Once the subscription is created, you can begin creating resource groups and deploying resources.
 
 
+# Create a Resource Group
+---
+Resource groups help organize and manage related resources. Follow these steps to create one:
+
+1. In the Azure Portal, search for "Resource groups" and select it.
+2. Click "Create" to start the process.
+
+![image](https://github.com/user-attachments/assets/30eaa1a8-e162-47bc-bd82-bdec4df51da9)
+
+
+3. Fill in the necessary details:
+   - **Subscription**: Select your subscription.
+   - **Resource Group Name**: Enter a name.
+   - **Region**: Choose the region where resources will be located.
+  
+![image](https://github.com/user-attachments/assets/d194bec1-c53a-4e3c-af1d-3b6092e046eb)
+
+
+4. Click "Review + Create," then "Create."
+
+Your resource group is now ready for resources.
 
 
