@@ -67,7 +67,15 @@ Once you've created your account, you're ready to set up your Microsoft Entra ID
 A subscription is required to manage and deploy Azure resources. Here's how to create one:
 
 1. In the Azure Portal, search for "Subscriptions" and select it.
+
+![image](https://github.com/user-attachments/assets/5f65513d-8bb9-450e-85ce-fb09073f0175)
+
+
 2. Click on "Add" to create a new subscription.
+
+![image](https://github.com/user-attachments/assets/f53fbf47-ac09-4fce-87fc-64672eabdb39)
+
+
 3. Choose the desired subscription offer, like Pay-As-You-Go.
 4. Assign the subscription to your Microsoft Entra ID tenant.
 
