@@ -104,4 +104,20 @@ Resource groups help organize and manage related resources. Follow these steps t
 
 Your resource group is now ready for resources.
 
+### Accessing Your VM
+---
+Once your VM is deployed, you can access it:
 
+1. **Connect to the VM:**
+   - Navigate to the "Virtual machines" section in the Azure Portal.
+   - Select your VM.
+   - Click on "Connect" to obtain SSH or RDP connection details.
+   - Use an SSH client (like PuTTY) or RDP to connect to the VM.
+
+### Manage Your Resources
+---
+After creating your resource, manage it from the Azure Portal. You can monitor performance, scale resources, and apply security measures.
+
+---
+
+Feel free to contribute or suggest improvements to this guide. Happy cloud computing!
