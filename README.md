@@ -108,11 +108,29 @@ Your resource group is now ready for resources.
 ---
 Once your VM is deployed, you can access it:
 
+![image](https://github.com/user-attachments/assets/68624d61-4238-49bd-a3ac-afcba8069284)
+
+
+
 1. **Connect to the VM:**
    - Navigate to the "Virtual machines" section in the Azure Portal.
    - Select your VM.
    - Click on "Connect" to obtain SSH or RDP connection details.
-   - Use an SSH client (like PuTTY) or RDP to connect to the VM.
+  
+![image](https://github.com/user-attachments/assets/0a2d4ce4-6c83-4a4c-8eba-07e8991a960c)
+
+
+![image](https://github.com/user-attachments/assets/e20aad87-69fb-4cbf-bf8e-ec0017c02497)
+
+
+   - Use Windows Remote Desktop Connection or an SSH client (like PuTTY) or RDP to connect to the VM.
+
+![image](https://github.com/user-attachments/assets/aaae4c69-1093-4da2-9c38-31b23dd37586)
+
+
+
+![image](https://github.com/user-attachments/assets/ede6543a-95a9-4019-b2e6-35cedf0c042f)
+
 
 ### Manage Your Resources
 ---
