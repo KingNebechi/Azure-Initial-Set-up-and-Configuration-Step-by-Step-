@@ -5,7 +5,7 @@ This repository provides a comprehensive guide to setting up and managing Azure 
 ## Table of Contents
 
 1- [Microsoft Entra ID Tenant](#1-Microsoft-Entra-ID-Tenant)
-  - [Create Azure Account](1-Microsoft-Entra-ID-Tenant/1.1-Create-Azure-Account.md)
+  - [Create Azure Account](#1-Microsoft-Entra-ID-Tenant/1.1-Create-Azure-Account.md)
   - [Create Entra ID Tenant](1-Microsoft-Entra-ID-Tenant/1.2-Create-Entra-ID-Tenant.md)
 - [Subscription](2-Subscription/2.1-Create-Subscription.md)
 - [Resource Group](3-Resource-Group/3.1-Create-Resource-Group.md)
