@@ -111,6 +111,33 @@ Once your VM is deployed, you can access it:
 ![image](https://github.com/user-attachments/assets/68624d61-4238-49bd-a3ac-afcba8069284)
 
 
+# Create Virtual Machine
+---
+1. **Create a Virtual Machine:**
+   - In the Azure Portal, search for "Virtual machines" and select it.
+  
+![image](https://github.com/user-attachments/assets/4d021b26-7670-43ab-b0ed-3bc370658573)
+
+   - Click on "Create" and then choose "Azure Virtual Machine."
+
+![image](https://github.com/user-attachments/assets/ec38ef83-bd5b-4d75-9295-cfa62a632ff3)
+
+
+   - Fill in the required details:
+     - **Subscription:** Select the subscription you created.
+     - **Resource Group:** Select the resource group you created.
+     - **VM Name:** Provide a name for your VM.
+     - **Region:** Choose the region.
+     - **Image:** Choose an OS image like Windows Server or Ubuntu.
+     - **Size:** Select the VM size.
+     - **Authentication Type:** Choose between SSH public key or password.
+     - **Username:** Set up a username.
+     - **Password:** Set up a password (if using password authentication).
+   - Configure any additional settings if necessary (networking, management, etc.).
+   - Click "Review + create," then "Create."
+
+   - ![image](https://github.com/user-attachments/assets/984aa724-18d1-4150-8a79-79d79d7d8f1c)
+
 
 1. **Connect to the VM:**
    - Navigate to the "Virtual machines" section in the Azure Portal.
