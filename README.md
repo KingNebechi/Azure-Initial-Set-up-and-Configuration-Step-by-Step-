@@ -10,7 +10,7 @@ This repository provides a comprehensive guide to setting up and managing Azure 
 - [Subscription](2-Subscription/2.1-Create-Subscription.md)
 - [Resource Group](3-Resource-Group/3.1-Create-Resource-Group.md)
 - [Azure Resources](4-Azure-Resources)
-  - [Create Virtual Machine](4-Azure-Resources/4.1-Create-Virtual-Machine.md)
+  - [Create Virtual Machine](4-Azure-Resources/4.1-Create-Virtual-Machine-AZURE.md)
   - [Accessing Your VM](4-Azure-Resources/4.2-Accessing-Your-VM.md)
   - [Manage Your Resources](4-Azure-Resources/4.3-Manage-Your-Resources.md)
 ---
