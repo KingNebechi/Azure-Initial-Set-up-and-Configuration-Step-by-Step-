@@ -1,0 +1,20 @@
+## Create a Microsoft Entra ID Tenant
+
+1. In the Azure Portal, search for "Microsoft Entra ID" in the search bar and select it.
+2. Select "Manage tenants" from the top pane, then click "Create."
+
+![image](https://github.com/user-attachments/assets/cdd01c0d-f1f2-4872-8c2e-6ea7d9b68300)
+
+
+![image](https://github.com/user-attachments/assets/930c13ba-05da-4170-a220-589623f274eb)
+
+![image](https://github.com/user-attachments/assets/c9b38398-4f0a-4b08-ba24-b0e0bfca861c)
+
+
+3. Choose "Microsoft Entra ID" as the directory type.
+4. Fill in the details like Organisation name and Initial domain name.
+
+![image](https://github.com/user-attachments/assets/f86c0ae9-22b3-4df3-9c0b-bae6b198ab50)
+
+
+5. Review the details and click "Create" to complete the tenant creation.
