@@ -20,7 +20,9 @@ This guide will walk you through the steps to set up a basic Azure infrastructur
 
 ![image](https://github.com/user-attachments/assets/f157bd67-0b40-40bb-a9fe-b0f049415f49)
 
-# Create an Azure Account
+
+# 1-Microsoft-Entra-ID-Tenant/1.1-Create-Azure-Account.md:
+## Create an Azure Account
 
 If you don't have an Azure account, follow these steps to create one:
 
