@@ -104,14 +104,10 @@ Resource groups help organize and manage related resources. Follow these steps t
 
 Your resource group is now ready for resources.
 
-### Accessing Your VM
----
-Once your VM is deployed, you can access it:
 
-![image](https://github.com/user-attachments/assets/68624d61-4238-49bd-a3ac-afcba8069284)
+# Azure Resource(s)
 
-
-# Create Virtual Machine
+## Create Virtual Machine
 ---
 1. **Create a Virtual Machine:**
    - In the Azure Portal, search for "Virtual machines" and select it.
@@ -139,6 +135,12 @@ Once your VM is deployed, you can access it:
    - ![image](https://github.com/user-attachments/assets/984aa724-18d1-4150-8a79-79d79d7d8f1c)
 
 
+## Accessing Your VM
+---
+Once your VM is deployed, you can access it:
+
+![image](https://github.com/user-attachments/assets/68624d61-4238-49bd-a3ac-afcba8069284)
+
 1. **Connect to the VM:**
    - Navigate to the "Virtual machines" section in the Azure Portal.
    - Select your VM.
@@ -159,7 +161,7 @@ Once your VM is deployed, you can access it:
 ![image](https://github.com/user-attachments/assets/ede6543a-95a9-4019-b2e6-35cedf0c042f)
 
 
-### Manage Your Resources
+## Manage Your Resources
 ---
 After creating your resource, manage it from the Azure Portal. You can monitor performance, scale resources, and apply security measures.
 
